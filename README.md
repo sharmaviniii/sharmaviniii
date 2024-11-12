@@ -7,13 +7,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with an
 - 💬 Ask me about ...
 -->
-
+<img src="https://www.pngmart.com/files/23/Coding-PNG-Clipart.png" min-width="200px" max-width="200px" width="250px" align="right">
 - 🔭 I’m currently in my pre-final year of pursuing B.Tech from Computer Science Branch
+
 - 🌱 I’m currently learning Machine Learning Techniques
 - 👯 I’m looking to collaborate on "IPL analysis" (mini project)
 - 📫 How to reach me: [@sharmaviniii](www.linkedin.com/in/vanshika-sharma-435678270)
 - 😄 Pronouns: she/her
 - ⚡ About Me: I love Fashion, Pinterest & Basketball
+
 
 <details>
  <summary><b>🛠 Tech Stack</b></summary><br>
