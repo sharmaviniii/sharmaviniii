@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 
-<details>
 <b>🛠 Tech Stack</b><br>
 Languages:  C, Python, Java, JavaScript, C#, SQL 
  <br>
@@ -27,7 +26,6 @@ Data & Analytics: Pandas, NumPy, Scikit-learn, Matplotlib <br>
 Databases: MongoDB, Microsoft SQL Server <br>
 </div>
  
-<details>	
 <b>GSSOC(24) Badges 🪶</b><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -43,4 +41,3 @@ Databases: MongoDB, Microsoft SQL Server <br>
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
