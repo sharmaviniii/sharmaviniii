@@ -26,7 +26,7 @@ Cloud & DevOps: Microsoft Azure, GCP, Firebase, Azure DevOps, CI/CD Principles <
 Data & Analytics: Pandas, NumPy, Scikit-learn, Matplotlib <br>
 Databases: MongoDB, Microsoft SQL Server <br>
 </div>
-<!-- 
+ 
 <details>	
 <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -44,4 +44,3 @@ Databases: MongoDB, Microsoft SQL Server <br>
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
--->
