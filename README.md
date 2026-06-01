@@ -13,7 +13,7 @@ I'm a Software Engineer passionate about building solutions that create real-wor
 
 I don't start with a tech stack — I start with the problem. Whether the solution requires AI, cloud infrastructure, backend systems, computer vision, data analytics, or full-stack development, I focus on understanding the challenge and building what delivers the most value.
 
-Currently pursuing a Bachelor's degree in Computer Science, I've worked across software engineering, cloud technologies, artificial intelligence, and data-driven applications, transforming ideas into scalable, production-ready systems.
+A Computer Science & Engineering Graduate (GPA - 8.2; May'26), I've worked across software engineering, cloud technologies, artificial intelligence, and data-driven applications, transforming ideas into scalable, production-ready systems.
 
 # 🚀 What I've Built
 
