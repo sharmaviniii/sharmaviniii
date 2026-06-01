@@ -11,39 +11,35 @@ Here are some ideas to get you started:
 
 I'm a Software Engineer passionate about building solutions that create real-world impact.
 
-I don't start with a tech stack—I start with the problem. Whether the solution requires AI, cloud infrastructure, backend systems, computer vision, data analytics, or full-stack development, I focus on understanding the challenge and building what delivers the most value.
+I don't start with a tech stack — I start with the problem. Whether the solution requires AI, cloud infrastructure, backend systems, computer vision, data analytics, or full-stack development, I focus on understanding the challenge and building what delivers the most value.
 
 Currently pursuing a Bachelor's degree in Computer Science, I've worked across software engineering, cloud technologies, artificial intelligence, and data-driven applications, transforming ideas into scalable, production-ready systems.
 
-🚀 What I've Built
-Production-ready Azure Face Verification System for employee identity validation
-AI-powered Fashion Intelligence Platform for trend analysis and prediction
-Enterprise RAG Assistant with semantic search and intelligent document retrieval
-Data analytics and automation solutions leveraging machine learning and cloud services
-Full-stack applications integrating modern web technologies and AI capabilities
-💼 Industry Experience
+# 🚀 What I've Built
+
+- Production-ready Azure Face Verification System for employee identity validation <br>
+- AI-powered Fashion Intelligence Platform for trend analysis and prediction <br>
+- Enterprise RAG Assistant with semantic search and intelligent document retrieval <br>
+- Data analytics and automation solutions leveraging machine learning and cloud services<br>
+- Full-stack applications integrating modern web technologies and AI capabilities<br>
+
+# 💼 Industry Experience
 
 During my internship at Lipman Family Farms, I designed and deployed cloud-native solutions using:
 
-C#
-.NET
-Azure Functions
-Azure Blob Storage
-Azure Cognitive Services
-REST APIs
-Event-Driven Architecture
+C#, .NET, Azure Functions, Azure Blob Storage, Azure Cognitive Services, REST APIs, Event-Driven Architecture
 
 This experience strengthened my understanding of building reliable systems, working with production environments, and solving business challenges through technology.
 
 
 # 🧠 Areas of Interest
 
-Artificial Intelligence & Machine Learning
-Cloud Computing & Distributed Systems
-Backend Engineering
-Software Deveopment
-Full-Stack Development
-Product Management
+- Artificial Intelligence & Machine Learning
+- Cloud Computing & Distributed Systems
+- Backend Engineering
+- Software Deveopment
+- Full-Stack Development
+- Product Management
 
 # 🌱 Currently
 
@@ -58,27 +54,27 @@ Preparing for Software Engineering opportunities
 
 ## 🚀 Engineering Expertise
 
-### 🏗 Software Engineering
+# 🏗 Software Engineering
 
-Data Structures & Algorithms • Object-Oriented Programming` • `Software Development Life Cycle (SDLC)` • `Design Patterns` • `Problem Solving` • `Debugging` • `Performance Optimization` • `Version Control`
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `Software Development Life Cycle (SDLC)` • `Design Patterns` • `Problem Solving` • `Debugging` • `Performance Optimization` • `Version Control`
 
-### ⚡ Backend & Distributed Systems
+# ⚡ Backend & Distributed Systems
 
 `REST APIs` • `API Integration` • `Microservices` • `Event-Driven Architecture` • `Authentication & Authorization` • `Scalable Backend Systems` • `Distributed Systems`
 
-### ☁ Cloud & Infrastructure
+# ☁ Cloud & Infrastructure
 
 `Cloud-Native Development` • `Azure Functions` • `Azure Blob Storage` • `Azure Cognitive Services` • `Role-Based Access Control (RBAC)` • `Secure Cloud Workflows` 
 
-### 🤖 Artificial Intelligence & GenAI
+# 🤖 Artificial Intelligence & GenAI
 
 `Computer Vision` • `Generative AI` • `Large Language Models (LLMs)` • `Prompt Engineering` • `Retrieval-Augmented Generation (RAG)` • `Semantic Search`
 
-### 📊 Data & Analytics
+# 📊 Data & Analytics
 
 `Data Analysis` • `Data Visualization` • `Predictive Modeling` • `Feature Engineering` • `Statistical Analysis` • `Data Processing Pipelines`
 
-### 🌟 Leadership & Collaboration
+# 🌟 Leadership & Collaboration
 
 `Technical Communication` • `Public Speaking` • `Project Management` • `Team Leadership` • `Cross-Functional Collaboration` • `Stakeholder Management`
 
