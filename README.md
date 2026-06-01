@@ -52,7 +52,10 @@ Preparing for Software Engineering opportunities
 # 🤝 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_viniii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vanshika-sharma-435678270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshika1310sharma@gmail.com) 
 
-## 🚀 Engineering Expertise
+<details>
+  <summary>
+
+## 🚀 Engineering Expertise  </summary>
 
 # 🏗 Software Engineering
 
@@ -77,6 +80,7 @@ Preparing for Software Engineering opportunities
 # 🌟 Leadership & Collaboration
 
 `Technical Communication` • `Public Speaking` • `Project Management` • `Team Leadership` • `Cross-Functional Collaboration` • `Stakeholder Management`
+</details>
 
 
 # 💻 Tech Stack:
@@ -107,5 +111,4 @@ Preparing for Software Engineering opportunities
 </div>
 </details>
 ---
-[![](https://komarev.com/ghpvc/?username=sharmaviniii&icon=0&color=10)](https://visitcount.itsvg.in)
  
