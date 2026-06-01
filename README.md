@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/vanshika-sharma-435678270/">Vanshika</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/vanshika-sharma-435678270/">Vanshika Sharma</a> </h1>
 
 <!--
 **sharmaviniii/sharmaviniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,7 +87,8 @@ Preparing for Software Engineering opportunities
 ![](https://streak-stats.demolab.com/?user=sharmaviniii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharmaviniii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<details>
+  <summary> 🏆 GitHub Trophies </summary>
 ![](https://github-profile-trophy.vercel.app/?username=sharmaviniii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <b>GSSOC(24) Badges 🪶</b><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -104,13 +105,7 @@ Preparing for Software Engineering opportunities
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharmaviniii&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</details>
 ---
 [![](https://komarev.com/ghpvc/?username=sharmaviniii&icon=0&color=10)](https://visitcount.itsvg.in)
  
