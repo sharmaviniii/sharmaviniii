@@ -49,9 +49,6 @@ Strengthening system design and backend engineering skills
 Expanding expertise in cloud-native architectures
 Preparing for Software Engineering opportunities
 
-# 🤝 Let's Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_viniii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vanshika-sharma-435678270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshika1310sharma@gmail.com) 
-
 <details>
   <summary>
 
@@ -116,5 +113,7 @@ Preparing for Software Engineering opportunities
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
----
- 
+
+
+# 🤝 Let's Connect:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_viniii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vanshika-sharma-435678270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshika1310sharma@gmail.com) 
