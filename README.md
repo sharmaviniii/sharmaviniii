@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 I'm a Software Engineer passionate about building solutions that create real-world impact.
 
-I don't start with a tech stack — I start with the problem. Whether the solution requires AI, cloud infrastructure, backend systems, computer vision, data analytics, or full-stack development, I focus on understanding the challenge and building what delivers the most value.
+I don't start with a tech stack, I start with the problem. Whether the solution requires AI, cloud infrastructure, backend systems or full-stack development, I focus on understanding the challenge and building what delivers the most value.
 
 A Computer Science & Engineering Graduate (GPA - 7.44; May'26), I've worked across software engineering, cloud technologies, artificial intelligence, and data-driven applications, transforming ideas into scalable, production-ready systems.
 
