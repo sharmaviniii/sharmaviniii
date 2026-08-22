@@ -27,7 +27,6 @@ Those questions are what usually send me down a rabbit hole. And that's probably
 ### 🌐 A little more of my work - **[ Visit my portfolio](https://vanshika-s-portfolio.ai.studio/)** · **[👗 Explore the TrendÉvo case study](https://trendevocasestudy.ai.studio/)**
 
 ---
----
 
 
 ## 💼 Industry Experience
