@@ -15,12 +15,34 @@ A Computer Science & Engineering Graduate (GPA - 7.44; May'26), I've worked acro
 
 ---
 
-## A little about how I build
+## ✨ A little about how I build
 
 I started with the usual things you'd expect from a Computer Science student — DSA, databases, networks, Java, C++, Python. But somewhere along the way, I became more interested in what happens **after** the code works.
 
-What happens when the network disappears? What happens when an AI system isn't sure about its answer? What happens when thousands of packets need to be processed at the same time? What happens when a meeting contains an important decision that nobody remembers three weeks later?
-Those questions are what usually send me down a rabbit hole. And that's probably the best way to describe my GitHub: **a collection of rabbit holes that turned into working systems.**
+What happens when the network disappears? <br> What happens when an AI system isn't sure about its answer? <br> What happens when thousands of packets need to be processed at the same time? <br> What happens when a meeting contains an important decision that nobody remembers three weeks later? <br>
+Those questions are what usually send me down a rabbit hole. And that's probably the best way to describe my GitHub: <br>
+
+**a collection of rabbit holes that turned into working systems.**
+
+### 🌐 A little more of my work - **[ Visit my portfolio](https://vanshika-s-portfolio.ai.studio/)** · **[👗 Explore the TrendÉvo case study](https://trendevocasestudy.ai.studio/)**
+
+---
+---
+
+
+## 💼 Industry Experience
+
+### 👁️ FaceVerify POC
+
+During my time at Lipman Family Farms, I got to work on something very different from my university projects. 
+An attendance card tells you **what card was scanned**. But what if you also need to know **who actually scanned it?** 
+I worked on a production-ready Azure module that used facial recognition to verify employee identities during attendance scans. The workflow became: 
+
+**card scan → Azure Blob Storage → Blob-triggered Function → Face API → confidence decision → audit / supervisor notification**
+
+The interesting constraint was that verification couldn't become the thing slowing attendance down.That experience taught me a different side of software engineering - production systems aren't just about getting the happy path right. They're about what happens when the image is bad, the face isn't detected, confidence is low, or something goes wrong. And sometimes the best system is the one the user barely notices.
+
+Stack - C#, .NET, Azure Functions, Azure Blob Storage, Azure Cognitive Services, REST APIs, Event-Driven Architecture
 
 ---
 
@@ -61,31 +83,17 @@ Building it taught me something I hadn't fully appreciated before: sometimes per
 
 ### 👗 TrendÉvo
 
-And then there's fashion. Which probably looks slightly out of place next to packet inspection and distributed payments. That's exactly why I like it.
-TrendÉvo started from a question about how fashion trends are actually predicted — and whether AI could make recommendations feel more personal instead of simply saying *“people who liked this also liked that.”* I worked on a system combining **trend forecasting, conversational memory, weather intelligence, semantic search and personalized recommendations**. I also went through research papers and an industry case study before turning those findings into actual product requirements and architecture. It ended up becoming my capstone project and scored **438/450**.
-More importantly, it reminded me that good engineering doesn't always start with engineering. Sometimes it starts with understanding the world you're building for.
+And then there's fashion. Which probably looks slightly out of place next to packet inspection and distributed payments. That's exactly why I like it. <br>
+TrendÉvo started from a question about how fashion trends are actually predicted — and whether AI could make recommendations feel more personal instead of simply saying *“people who liked this also liked that.”* <br>
+I worked on a system combining **trend forecasting, conversational memory, weather intelligence, semantic search and personalized recommendations**. <br>
+I also went through research papers and an industry case study before turning those findings into actual product requirements and architecture. It ended up becoming my capstone project and scored **438/450**.<br>
+More importantly, it reminded me that good engineering doesn't always start with engineering.
+Sometimes it starts with understanding the world you're building for.
 
+**→ [Read the TrendÉvo Case Study](https://trendevocasestudy.ai.studio/)**
 ---
 
-# 💼 Industry Experience
-
-### 👁️ FaceVerify AI
-
-During my time at Lipman Family Farms, I got to work on something very different from my university projects. 
-An attendance card tells you **what card was scanned**. But what if you also need to know **who actually scanned it?** 
-I worked on a production-ready Azure module that used facial recognition to verify employee identities during attendance scans. The workflow became: 
-
-**card scan → Azure Blob Storage → Blob-triggered Function → Face API → confidence decision → audit / supervisor notification**
-
-The interesting constraint was that verification couldn't become the thing slowing attendance down.That experience taught me a different side of software engineering - production systems aren't just about getting the happy path right. They're about what happens when the image is bad, the face isn't detected, confidence is low, or something goes wrong. And sometimes the best system is the one the user barely notices.
-
-Stack - C#, .NET, Azure Functions, Azure Blob Storage, Azure Cognitive Services, REST APIs, Event-Driven Architecture
-
----
-
-
-
-# 🧠 Areas of Interest
+## 🧠 Areas of Interest
 
 - Software Deveopment
 - Backend Engineering
@@ -134,8 +142,13 @@ Stack - C#, .NET, Azure Functions, Azure Blob Storage, Azure Cognitive Services,
 
 ---
 
-# 🤝 Let's Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_viniii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vanshika-sharma-435678270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshika1310sharma@gmail.com) 
+## 🤝 Find me beyond GitHub
+
+Want to see the work beyond the code?
+
+**[Portfolio](https://vanshika-s-portfolio.ai.studio/)** · 
+**[TrendÉvo Case Study](https://trendevocasestudy.ai.studio/)** · Or just say hi: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-sharma-435678270/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshika1310sharma@gmail.com)
+
 
 
 <p align="center">
